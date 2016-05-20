@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+    <menu>
+        <mediagallery translate="title" module="mediagallery">
+            <title>Media Gallery</title>
+            <sort_order>75</sort_order>
+            <action>adminhtml/mediagallery_index</action>
+        </mediagallery>
+    </menu>
+</config>

@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Jerrylopez_Mediagallery>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <Mage_Adminhtml/>
+
+            </depends>
+        </Jerrylopez_Mediagallery>
+    </modules>
+</config>
