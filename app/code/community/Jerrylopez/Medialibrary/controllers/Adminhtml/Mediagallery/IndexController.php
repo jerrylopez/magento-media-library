@@ -1,6 +1,6 @@
 <?php
 require_once('Mage/Adminhtml/controllers/Cms/Wysiwyg/ImagesController.php');
-class Jerrylopez_Mediagallery_Adminhtml_Mediagallery_IndexController extends Mage_Adminhtml_Cms_Wysiwyg_ImagesController
+class Jerrylopez_Medialibrary_Adminhtml_Medialibrary_IndexController extends Mage_Adminhtml_Cms_Wysiwyg_ImagesController
 {
 	public function indexAction()
 	{
@@ -12,7 +12,7 @@ class Jerrylopez_Mediagallery_Adminhtml_Mediagallery_IndexController extends Mag
 			$this->_getSession()->addError($e->getMessage());
 		}
 
-		$this->_title($this->__('Media Gallery'));
+		$this->_title($this->__('Media Library'));
 		$this->_initAction()->loadLayout();
 		$block = $this->getLayout()->getBlock('wysiwyg_images.js');
 		if ($block) {
