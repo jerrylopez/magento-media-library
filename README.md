@@ -1,4 +1,4 @@
-# Magento Media Gallery
+# Magento Media Library
 
 Currently there is no way to easily access Magento's media storage UI without having to go to CMS > Pages or CMS > Static Blocks :thumbsdown: With this module you will be able to have access to the Media Gallery from anywhere with a navigation item on the main admin panel navigation.
 
