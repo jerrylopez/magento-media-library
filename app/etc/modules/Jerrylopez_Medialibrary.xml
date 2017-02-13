@@ -1,13 +1,12 @@
 <?xml version="1.0"?>
 <config>
     <modules>
-        <Jerrylopez_Mediagallery>
+        <Jerrylopez_Medialibrary>
             <active>true</active>
             <codePool>community</codePool>
             <depends>
                 <Mage_Adminhtml/>
-
             </depends>
-        </Jerrylopez_Mediagallery>
+        </Jerrylopez_Medialibrary>
     </modules>
 </config>
