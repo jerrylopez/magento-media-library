@@ -34,6 +34,21 @@
                 </medialibrary>
             </updates>
         </layout>
+        <cms>
+          <browser>
+            <extensions>
+              <allowed>
+                <jpg>1</jpg>
+                <jpeg>1</jpeg>
+                <png>1</png>
+                <gif>1</gif>
+                <pdf>1</pdf>
+                <docx>1</docx>
+                <csv>1</csv>
+              </allowed>
+            </extensions>
+          </browser>
+        </cms>
     </adminhtml>
     <admin>
         <routers>
