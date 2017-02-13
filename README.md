@@ -7,4 +7,4 @@ Currently there is no way to easily access Magento's media storage UI without ha
 ## Soon to come
 
 - [ ] Ability to upload more than just images (PDF, docx, csv, etc)
-- [ ] Possibly an ajax option that load loads the media gallery on any page without leave your current page
+- [ ] Possibly an ajax option that load loads the media library on any page without leave your current page
